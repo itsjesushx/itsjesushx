@@ -8,7 +8,7 @@ I'm an average gay 19 year old who goes to college and works at the same time bu
 I like to code as a hobby (or at least attempt to) i barely do it because of college and work but whenever i get the chance to learn something new every time i do it.
 
 * 🌍  I'm from in Panama!
-* 🚀  I'm currently working on [TownOfSushi](http://github.com/itsjesushx/TownOfSushi) and playing it with my private group.
+* 🚀  I'm currently working on [TownOfSushi](http://github.com/itsjesushx/TownOfSushi) and testing it with my group!
 * 🧠  I'm learning C#!
 * 🤝  I'm open to collaborating on any project!
 * ⚡  I love music!
