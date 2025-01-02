@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Aspiring programmer
 -------------------
-
+* 📱  Discord: @itsjesushx
+  
 I'm an average gay 19 year old who goes to college and works at the same time but does this as a hobby.\
 I like to code as a hobby (or at least attempt to) i barely do it because of college and work but whenever i get the chance to learn something new every time i do it.
 
