@@ -5,14 +5,14 @@ Aspiring programmer
 -------------------
 * 📱  Contact me on Discord: @itsjesushx
   
-I'm an average gay 19 year old who goes to college and works at the same time but does this as a hobby.\
-I like to code as a hobby (or at least attempt to) i barely do it because of college and work but whenever i get the chance to learn something new every time i do it.
+I'm an average gay 19 year old who goes to college and works at the same time but make random among us mods as a hobby.\
+I like to code as my hobby (or at least attempt to) i barely do it because of college and work but whenever i get the chance to learn something new every time i do it.
 
 * 🌍  I'm from in Panama!
-* 🚀  I'm currently working on [TownOfSushi](http://github.com/itsjesushx/TownOfSushi) and testing it with my group!
-* 🧠  I'm learning C#!
+* 🚀  I'm currently working on [TheSushiRoles](http://github.com/itsjesushx/TheSushiRoles) and testing it with my friends!
+* 🧠  I'm still learning C# so my code isn't the greatest💀
 * 🤝  I'm open to collaborating on any project!
-* ⚡  I love music!
+* ⚡  I love pop music! but I'm open to any!
 
 ### Skills
 
